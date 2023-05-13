@@ -15,6 +15,7 @@ public class Fine {
 
 	public long ownerID;
 	public String ownerName;
+	public String ownerEmail;
 	public long carID;
 	public String parkingPlace;
 	public LocalDateTime dateTime;

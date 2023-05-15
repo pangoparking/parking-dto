@@ -13,6 +13,7 @@ import lombok.ToString;
 @ToString
 public class Fine {
 
+	public long id;
 	public long ownerID;
 	public String ownerName;
 	public String ownerEmail;

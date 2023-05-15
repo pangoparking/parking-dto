@@ -1,7 +1,6 @@
 package org.parking.model;
 
 import java.time.LocalDateTime;
-import java.time.LocalTime;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
